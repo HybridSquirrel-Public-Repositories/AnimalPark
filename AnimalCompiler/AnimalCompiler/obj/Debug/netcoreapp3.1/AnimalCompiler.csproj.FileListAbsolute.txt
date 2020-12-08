@@ -1,0 +1,13 @@
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/bin/Debug/netcoreapp3.1/AnimalCompiler
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/bin/Debug/netcoreapp3.1/AnimalCompiler.deps.json
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/bin/Debug/netcoreapp3.1/AnimalCompiler.runtimeconfig.json
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/bin/Debug/netcoreapp3.1/AnimalCompiler.runtimeconfig.dev.json
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/bin/Debug/netcoreapp3.1/AnimalCompiler.dll
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/bin/Debug/netcoreapp3.1/AnimalCompiler.pdb
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/obj/Debug/netcoreapp3.1/AnimalCompiler.csprojAssemblyReference.cache
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/obj/Debug/netcoreapp3.1/AnimalCompiler.AssemblyInfoInputs.cache
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/obj/Debug/netcoreapp3.1/AnimalCompiler.AssemblyInfo.cs
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/obj/Debug/netcoreapp3.1/AnimalCompiler.csproj.CoreCompileInputs.cache
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/obj/Debug/netcoreapp3.1/AnimalCompiler.dll
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/obj/Debug/netcoreapp3.1/AnimalCompiler.pdb
+/home/squirrel/Projects/C#/AnimalPark/AnimalCompiler/AnimalCompiler/obj/Debug/netcoreapp3.1/AnimalCompiler.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7ADQzDrGH5qnU4jqZ82CENc3A/zA9a9aAJcPPdVtq2nLoH8+Swr95D9CcLZVxTs2HogtDy4f5+fNq0+XgHg8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\animalpark\\AnimalCompiler\\AnimalCompiler\\AnimalCompiler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Squirrel\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Squirrel\\.nuget\\packages\\microsoft.codeanalysis.common\\3.8.0-4.final\\microsoft.codeanalysis.common.3.8.0-4.final.nupkg.sha512",
+    "C:\\Users\\Squirrel\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0-4.final\\microsoft.codeanalysis.csharp.3.8.0-4.final.nupkg.sha512",
+    "C:\\Users\\Squirrel\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Squirrel\\.nuget\\packages\\system.collections.immutable\\5.0.0-preview.8.20407.11\\system.collections.immutable.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Squirrel\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Squirrel\\.nuget\\packages\\system.reflection.metadata\\5.0.0-preview.8.20407.11\\system.reflection.metadata.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "C:\\Users\\Squirrel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\Squirrel\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Squirrel\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
